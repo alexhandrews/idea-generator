@@ -96,7 +96,7 @@ body {
 	margin: 0;
 	padding-bottom: 6rem;
 	min-height: 98%;
-	background-image: url('https://notoriousseo.com/idea-generator/img/background.jpg');
+	background-image: url('/idea-generator/img/background.jpg');
 	background-repeat: no-repeat;
     background-color: black;
 }
@@ -198,7 +198,7 @@ button:hover {
 /* Layout For Smaller Screens */
 @media only screen and (max-width:500px) {
 	body {
-	background-image: url('https://notoriousseo.com/idea-generator/img/background-small.jpg');
+	background-image: url('/idea-generator/img/background-small.jpg');
 	background-color: black;
 	
 	}
